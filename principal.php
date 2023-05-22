@@ -1,5 +1,5 @@
 <?php
-$conexion=mysqli_connect('localhost','u721481282_Admin','admin72025667aA.','u721481282_Ticket');
+$conexion=mysqli_connect('localhost','u583014169_greatevent','u583014169_greatevent','gtaV19921963');
 
 ?>
 

@@ -119,7 +119,7 @@ $cuerpo .= '
                 <p style="margin: 2px; font-size: 18px">te hemos creado una nueva clave temporal para que puedas ingresar , la clave temporal es: <strong>'. $clave.'</strong> </p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-                <a href="https://ticketonline.shop/recuperar/login.php" class="btnlink">Iniciar Sesion </a>
+                <a href="https://greatevent.store/recuperar/login.php" class="btnlink">Iniciar Sesion </a>
                 <p>&nbsp;</p>
                  <p>&nbsp;</p>
                 
@@ -131,12 +131,12 @@ $cuerpo .= '
         <td style="background-color: #ffffff;">
         <div class="misection">
             <h2 style="color: red; margin: 0 0 7px">Visitar  Pagina Web </h2>
-            <img style="padding: 0; display: block" src="https://ticketonline.shop" width="100%">
+            <img style="padding: 0; display: block" src="https://greatevent.store" width="100%">
         </div>
         
         <div class="mb-5 misection">  
           <p>&nbsp;</p>
-            <a href="https://ticketonline.shop" class="btnlink">Visitar Canal </a>
+            <a href="https://greatevent.store" class="btnlink">Visitar Canal </a>
         </div>
         </td>
     </tr>

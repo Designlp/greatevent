@@ -28,7 +28,7 @@ $updateClave    = ("UPDATE login SET tokenUser='$miTokenClave' WHERE email='".$c
 $queryResult    = mysqli_query($con,$updateClave); 
 
 
-$linkRecuperar      = "https://ticketonline.shop/pag/recuperar/nuevaClave.php?id=".$dataConsulta['id']."&tokenUser=".$miTokenClave;
+$linkRecuperar      = "https://greatevent.store/greatevent/recuperar/nuevaClave.php?id=".$dataConsulta['id']."&tokenUser=".$miTokenClave;
 
 $destinatario = $correo; 
 $asunto       = "Recuperando Clave - WebDeveloper";

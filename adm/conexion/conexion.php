@@ -8,9 +8,9 @@ private $charset;
 
    public function __construct(){
     $this->host = 'localhost';
-    $this->db = 'finalp';
-    $this->user = 'root';
-    $this->password = '';
+    $this->db = 'u583014169_greatevent';
+    $this->user = 'u583014169_greatevent';
+    $this->password = 'gtaV19921963';
     $this->charset  = 'utf8mb4';
     }
     function connect(){

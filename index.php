@@ -2,5 +2,5 @@
  
 
     //header("Location:./cliente/login.html");
-    header("Location:./ClienteV/index.html");
+    header("Location:./clientev/index.html");
 ?>
